@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/prit-sentry/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/prit-sentry/static/js/main.e0e6f73b.chunk.js",
-    "main.js.map": "/prit-sentry/static/js/main.e0e6f73b.chunk.js.map",
+    "main.js": "/prit-sentry/static/js/main.7e25bbe6.chunk.js",
+    "main.js.map": "/prit-sentry/static/js/main.7e25bbe6.chunk.js.map",
     "runtime-main.js": "/prit-sentry/static/js/runtime-main.f0dd227e.js",
     "runtime-main.js.map": "/prit-sentry/static/js/runtime-main.f0dd227e.js.map",
     "static/css/2.4659568d.chunk.css": "/prit-sentry/static/css/2.4659568d.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4659568d.chunk.css",
     "static/js/2.4a5f14f4.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.e0e6f73b.chunk.js"
+    "static/js/main.7e25bbe6.chunk.js"
   ]
 }

@@ -1,7 +1,8 @@
+//https://coolors.co/e63946-f1faee-a8dadc-457b9d-1d3557
 export const styles = {
         
     row1BgGrey:{
-        backgroundColor: '#eeeeee',
+        backgroundColor: '#F1FAEE',
         padding: 2,
         margin: 8,
         minWidth: 1000,
@@ -9,7 +10,7 @@ export const styles = {
     rowTitle: {
         width: '100%',
         height: '40%',
-        backgroundColor: '#dddddd'
+        backgroundColor: '#457B9D'
     },
     title: {
         heigth: '40%',
@@ -18,12 +19,12 @@ export const styles = {
         fontSize: 28,
         textAlign: 'left',
         alignItems: 'left',
-        color: 'rgb(61, 116, 219)',
+        color: '#f1faee',
     },
     subtitle: {
         width: '100%',
         height: '30%',
-        backgroundColor: '#dedede',
+        backgroundColor: '#457B9D',
     },
     textSubtitle: {
         heigth: '20%',
@@ -31,7 +32,7 @@ export const styles = {
         textAlign: 'left',
         whiteSpace: 'nowrap',
         overflow: 'hidden',
-        color: 'rgb(119, 101, 137)'
+        color: '#f1faee'
     },
     rowError: {
         heigth: '30%',
@@ -53,12 +54,19 @@ export const styles = {
         marginLeft: 10,
         fontSize: 14,
         textAlign: 'center',
+        color: '#1d3557',
     },
     rowValue:{
         padding: 0,
         margin: 0,
         fontSize: 14,
         textAlign: 'center',
+        color: '#1d3557',
+    },
+    rowCard2:{
+        backgroundColor: '#a8dadc',
+        padding: 2,
+        margin: 8,
     },
 }
 
